@@ -1,5 +1,6 @@
 # PCR-primer
 Find primers to pcr a gene
+difficulty: mediun
 
 Copy and paste the gene information (bases around locus u want to get) from ncbi to the program
 Then it will return some pairs of primers that are:
